@@ -7,3 +7,11 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 from scipy import stats
+
+print()
+dfdfdsdffd
+
+git pull
+git add .
+git commit -m "commit message"
+git push
