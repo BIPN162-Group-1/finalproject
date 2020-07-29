@@ -1,2 +1,9 @@
-dfdfdfdfdf
-fdfdfdf
+# Plotting packages
+%matplotlib inline
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Scientific computing packages
+import pandas as pd
+import numpy as np
+from scipy import stats
